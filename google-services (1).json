@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "80090271078",
+    "firebase_url": "https://gifaataa-default-rtdb.firebaseio.com",
+    "project_id": "gifaataa",
+    "storage_bucket": "gifaataa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80090271078:android:4f3a3cb69479ba1557cca7",
+        "android_client_info": {
+          "package_name": "com.example.gifatafestival"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChPUei9HxA8atzY-4CCB9K5N3YUc_6-_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
